@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Clipper Script';
+    src: url('font/clipper-script-personal-use/PersonalUse_Clipper_Script_fat.ttf')
+    format('truetype');
+  }
+  
+body {
+    background-image:url("Images/B3.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding: 20px;
+    color:#4A5D23;
+    
+}
+
+#main-head {
+    font-size: 70px;
+}
+
+h1 {
+    font-family: 'Clipper Script';
+    font-weight: bolder;
+    text-align: center;
+    font-size: 70px;
+    color:	#4A5D23;
+}
+
+h2 {
+    font-size:40px;
+    color:	#B35831;
+
+}
+
+a {
+    color:	#4C4C4C;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: square;
+    color:#4C4C4C
+  }
+
+ol {
+  color:#4C4C4C;
+  font-size:25px;
+}
+
+p {
+    color:#7C6654;
+    font-size:30px;
+    font-weight:Bold;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: auto;
+    height:auto;
+    border-radius: 2%;
+    border: 5px solid #555;
+
+}
+
+.nasi {
+    width: 40%;
+}
+
+.greet {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.background {
+    font-size: 22px;
+    color: #4C4C4C;
+    border:auto;
+    margin: 20px;
+    padding: auto;
+
+}
